@@ -1,5 +1,0 @@
-{{#user}}
-Name: Suraj Kumar Gupta
-Skills: HTML, CSS, JS, MongoDB, Express, Reactjs, Nodejs,
-Email: surajkumarguptamainpuri@gmail.com
-{{/user}}
